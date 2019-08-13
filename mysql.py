@@ -24,12 +24,12 @@ except:
 
 options = Options()
 options.headless = True
-browser = webdriver.Firefox(options=options)
-ids = []
-names = []
-ratings = []
-dates = []
-comments = []
+browser = webdriver.Firefox(options=options, executable_path="/home/pedro/Documents/selenium/geckodriver")
+# ids = []
+# names = []
+# ratings = []
+# dates = []
+# comments = []
 
 browser.get("https://play.google.com/store/apps/details?id=com.akupintar.mobile.siswa&showAllReviews=true")
 
@@ -55,7 +55,7 @@ for review in reviews:
     comment = comment.lstrip()
     # names.append(name)
     # ratings.append(rating)
-    dates.append(date)
+    # dates.append(date)
     # comments.append(comment)
     # ids.append(id_review)
     insert_query = """INSERT INTO REVIEW(id, name, rating, date, comment) values (%s, %s, %s, %s, %s)"""
@@ -65,4 +65,5 @@ for review in reviews:
     id_review += 1
 
 db.close()
+# print ("Headless Firefox Initialized")
 browser.quit()

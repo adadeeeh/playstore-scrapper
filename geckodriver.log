@@ -1296,3 +1296,31 @@ console.error: BroadcastService:
 1565701988321	Marionette	WARN	TLS certificate errors will be ignored for this session
 1565701990268	Marionette	INFO	Stopped listening on port 34211
 JavaScript error: /_/boq-play/_/js/k=boq-play.PlayStoreUi.en_US.7i-fKhDXSm4.es5.O/am=f_-v7_1xhxA/d=1/excm=_b,_tp,appdetailsview/ed=1/dg=0/rs=AB1caFVlwT7YvNbbGG5OrQIypbPWk6l8kg/m=_b,_tp, line 327: NS_ERROR_NOT_INITIALIZED: 
+1565702385117	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VUS5OxgIkn9N"
+*** You are running in headless mode.
+1565702385622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565702385622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1565702385622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565702385622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565702387758	Marionette	INFO	Listening on port 38785
+1565702387824	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565702389560	Marionette	INFO	Stopped listening on port 38785
+JavaScript error: /_/boq-play/_/js/k=boq-play.PlayStoreUi.en_US.7i-fKhDXSm4.es5.O/am=__-v7_1xjxA/d=1/excm=_b,_tp,appdetailsview/ed=1/dg=0/rs=AB1caFXzqhCCSfLMseq0GgypwNm8gOeZBg/m=_b,_tp, line 327: NS_ERROR_NOT_INITIALIZED: 
+1565704466841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kCKqVnYIxFWy"
+*** You are running in headless mode.
+1565704467317	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565704467317	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1565704467317	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565704467317	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565704469268	Marionette	INFO	Listening on port 44705
+1565704469348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565704486943	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565654482633%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
