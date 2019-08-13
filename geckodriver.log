@@ -1270,3 +1270,29 @@ console.error: BroadcastService:
     remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
 
 1565687745390	Marionette	INFO	Stopped listening on port 42413
+1565701961614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0XHhd94bmx01"
+*** You are running in headless mode.
+1565701963469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565701963469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1565701963470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565701963470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565701967057	Marionette	INFO	Listening on port 33503
+1565701967140	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565701985675	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nMywmDm7c5nf"
+*** You are running in headless mode.
+1565701986240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565701986240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1565701986240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565701986240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565654482633%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1565701988276	Marionette	INFO	Listening on port 34211
+1565701988321	Marionette	WARN	TLS certificate errors will be ignored for this session
+1565701990268	Marionette	INFO	Stopped listening on port 34211
+JavaScript error: /_/boq-play/_/js/k=boq-play.PlayStoreUi.en_US.7i-fKhDXSm4.es5.O/am=f_-v7_1xhxA/d=1/excm=_b,_tp,appdetailsview/ed=1/dg=0/rs=AB1caFVlwT7YvNbbGG5OrQIypbPWk6l8kg/m=_b,_tp, line 327: NS_ERROR_NOT_INITIALIZED: 

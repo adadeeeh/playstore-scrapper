@@ -2,6 +2,7 @@ import pymysql
 import time
 from selenium import webdriver
 from bs4 import BeautifulSoup
+from selenium.webdriver.firefox.options import Options
 
 db = pymysql.connect('localhost', 'pedro', '1', 'python')
 
@@ -21,7 +22,9 @@ except:
     cursor.execute(drop)
     cursor.execute(create)
 
-browser = webdriver.Firefox()
+options = Options()
+options.headless = True
+browser = webdriver.Firefox(options=options)
 ids = []
 names = []
 ratings = []
@@ -62,3 +65,4 @@ for review in reviews:
     id_review += 1
 
 db.close()
+browser.quit()
