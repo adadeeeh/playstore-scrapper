@@ -1,31 +1,15 @@
-from selenium import webdriver
 import time
 from bs4 import BeautifulSoup
-from selenium.webdriver.chrome.options import Options
-import pymysql
+import initheadless
+import initdb
 
-options = Options()
-options.headless = True
-browser = webdriver.Chrome(options=options)
+browser = initheadless.headless_browser()
 
-db = pymysql.connect('localhost', 'root', '', 'crawl')
-cursor = db.cursor()
-
-drop = """DROP TABLE IF EXISTS REVIEW"""
-create = """CREATE TABLE REVIEW (
-    id int,
-    name char(40),
-    rating int,
-    date varchar(255),
-    comment text ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE utf8mb4_bin;"""
-
-try:
-    cursor.execute(create)
-except:
-    cursor.execute(drop)
-    cursor.execute(create)
+db = initdb.create_db()
+cursor = initdb.get_cursor(db)
 
 browser.get("https://play.google.com/store/apps/details?id=com.akupintar.mobile.siswa&showAllReviews=true")
+
 lenOfPage = browser.execute_script("window.scrollTo(0, document.body.scrollHeight);var lenOfPage=document.body.scrollHeight;return lenOfPage;")
 match=False
 while(match==False):
@@ -41,6 +25,7 @@ while(match==False):
 
 reviews = browser.find_elements_by_xpath("//div[1]/div[4]/c-wiz/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[@jscontroller='H6eOGe']")
 
+print('Inserting ' + str(len(reviews)) + ' items to database')
 id_review = 1
 for review in reviews:
    soup = BeautifulSoup(review.get_attribute("innerHTML"), "lxml")
