@@ -12,7 +12,7 @@ def create_db():
     db = pymysql.connect(host, user, password, dbname)
     cursor = db.cursor()
     # drop_provinsi = """DROP TABLE IF EXISTS Provinsi"""
-    drop_kabupaten = """DROP TABEL IF EXISTS Kabupaten"""
+    drop_kabupaten = """DROP TABLE IF EXISTS Kabupaten"""
     # create_provinsi = """CREATE TABLE Provinsi (
     #     provinsiid int, nama_provinsi varchar(50), total_sekolah float, total_kirim float, total_sisa float, total_sd float, total_kirim_sd float,
     #     total_sisa_sd float, total_smp float, total_kirim_smp float, total_sisa_smp float, total_sma float, total_kirim_sma float, total_sisa_sma float,

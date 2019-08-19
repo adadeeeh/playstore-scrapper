@@ -807,3 +807,423 @@ JavaScript error: http://dapo.dikdasmen.kemdikbud.go.id/assets/libs/amcharts/the
 1566201746061	Marionette	INFO	Listening on port 45569
 1566201746124	Marionette	WARN	TLS certificate errors will be ignored for this session
 1566201759205	Marionette	INFO	Stopped listening on port 45569
+1566202832629	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.e5YlYPf5KZOe"
+1566202833198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566202833198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566202833198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566202833198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:20321): Gtk-WARNING **: 15:20:33.936: Theme directory places/22 of theme light has no size field
+
+
+(firefox:20321): Gtk-WARNING **: 15:20:33.936: Theme directory places/24 of theme light has no size field
+
+1566202835255	Marionette	INFO	Listening on port 42007
+1566202835337	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566202848873	Marionette	INFO	Stopped listening on port 42007
+1566202877530	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NUePEjyv7C1x"
+1566202878129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566202878129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566202878129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566202878129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:20530): Gtk-WARNING **: 15:21:18.805: Theme directory places/22 of theme light has no size field
+
+
+(firefox:20530): Gtk-WARNING **: 15:21:18.805: Theme directory places/24 of theme light has no size field
+
+1566202880125	Marionette	INFO	Listening on port 42471
+1566202880179	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221566000082377%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1566202903961	Marionette	INFO	Stopped listening on port 42471
+1566203038506	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PrMHDsMfXAKp"
+1566203039081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566203039082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566203039082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566203039082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:20804): Gtk-WARNING **: 15:23:59.771: Theme directory places/22 of theme light has no size field
+
+
+(firefox:20804): Gtk-WARNING **: 15:23:59.771: Theme directory places/24 of theme light has no size field
+
+1566203041314	Marionette	INFO	Listening on port 34813
+1566203041414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566203066696	Marionette	INFO	Stopped listening on port 34813
+1566203070945	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AuhclQ718lZL"
+1566203071519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566203071519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566203071519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566203071519	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:21023): Gtk-WARNING **: 15:24:32.314: Theme directory places/22 of theme light has no size field
+
+
+(firefox:21023): Gtk-WARNING **: 15:24:32.314: Theme directory places/24 of theme light has no size field
+
+1566203073697	Marionette	INFO	Listening on port 34971
+1566203073752	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566203089209	Marionette	INFO	Stopped listening on port 34971
+1566203094060	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0fLXQnRKPuIZ"
+1566203094683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566203094683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566203094684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566203094684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:21226): Gtk-WARNING **: 15:24:55.404: Theme directory places/22 of theme light has no size field
+
+
+(firefox:21226): Gtk-WARNING **: 15:24:55.404: Theme directory places/24 of theme light has no size field
+
+1566203096863	Marionette	INFO	Listening on port 38755
+1566203096915	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221566000082377%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1566203121341	Marionette	INFO	Stopped listening on port 38755
+1566203144754	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OH9hSR0qzGJw"
+1566203145366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566203145366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566203145366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566203145367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:21444): Gtk-WARNING **: 15:25:46.126: Theme directory places/22 of theme light has no size field
+
+
+(firefox:21444): Gtk-WARNING **: 15:25:46.126: Theme directory places/24 of theme light has no size field
+
+1566203147402	Marionette	INFO	Listening on port 38271
+1566203147468	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221566000082377%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1566203171351	Marionette	INFO	Stopped listening on port 38271
+1566208331174	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yWeuC7A0O5aD"
+1566208331788	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566208331788	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566208331788	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566208331788	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:22637): Gtk-WARNING **: 16:52:12.765: Theme directory places/22 of theme light has no size field
+
+
+(firefox:22637): Gtk-WARNING **: 16:52:12.765: Theme directory places/24 of theme light has no size field
+
+1566208334045	Marionette	INFO	Listening on port 44951
+1566208334098	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221566000082377%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1566208402639	Marionette	INFO	Stopped listening on port 44951
+1566208406874	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lhg0jSbQHn4z"
+1566208407513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566208407513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566208407513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566208407513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:22877): Gtk-WARNING **: 16:53:28.202: Theme directory places/22 of theme light has no size field
+
+
+(firefox:22877): Gtk-WARNING **: 16:53:28.202: Theme directory places/24 of theme light has no size field
+
+1566208409647	Marionette	INFO	Listening on port 40945
+1566208409697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566208459156	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JbblQbWRKHNp"
+1566208459718	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566208459718	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566208459719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566208459719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:23083): Gtk-WARNING **: 16:54:20.456: Theme directory places/22 of theme light has no size field
+
+
+(firefox:23083): Gtk-WARNING **: 16:54:20.456: Theme directory places/24 of theme light has no size field
+
+1566208461782	Marionette	INFO	Listening on port 41813
+1566208461874	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22877, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1566208468050	Marionette	INFO	Stopped listening on port 40945
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221566000082377%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1566208929743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JFU4xhMNGxtV"
+1566208930323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566208930323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566208930323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566208930323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:23486): Gtk-WARNING **: 17:02:11.306: Theme directory places/22 of theme light has no size field
+
+
+(firefox:23486): Gtk-WARNING **: 17:02:11.306: Theme directory places/24 of theme light has no size field
+
+1566208932707	Marionette	INFO	Listening on port 43691
+1566208932751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566208952954	Marionette	INFO	Stopped listening on port 43691
+1566209982452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qZIR498h5e9C"
+1566209983592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566209983592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566209983592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566209983592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:24091): Gtk-WARNING **: 17:19:44.414: Theme directory places/22 of theme light has no size field
+
+
+(firefox:24091): Gtk-WARNING **: 17:19:44.414: Theme directory places/24 of theme light has no size field
+
+1566209986154	Marionette	INFO	Listening on port 37261
+1566209986166	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566210006430	Marionette	INFO	Stopped listening on port 37261
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1566210117864	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3vSEIFxTOJiw"
+1566210118472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566210118472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566210118473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566210118473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:24347): Gtk-WARNING **: 17:21:59.633: Theme directory places/22 of theme light has no size field
+
+
+(firefox:24347): Gtk-WARNING **: 17:21:59.633: Theme directory places/24 of theme light has no size field
+
+1566210120956	Marionette	INFO	Listening on port 45443
+1566210121005	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566210142511	Marionette	INFO	Stopped listening on port 45443
+1566210195466	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nZcWb3XipnES"
+1566210196011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566210196011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566210196012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566210196012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:24574): Gtk-WARNING **: 17:23:16.716: Theme directory places/22 of theme light has no size field
+
+
+(firefox:24574): Gtk-WARNING **: 17:23:16.716: Theme directory places/24 of theme light has no size field
+
+1566210198122	Marionette	INFO	Listening on port 38047
+1566210198179	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566210219415	Marionette	INFO	Stopped listening on port 38047
+1566210536182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SJzrhS3hQgmd"
+1566210536787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566210536787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566210536787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566210536787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:24887): Gtk-WARNING **: 17:28:57.536: Theme directory places/22 of theme light has no size field
+
+
+(firefox:24887): Gtk-WARNING **: 17:28:57.536: Theme directory places/24 of theme light has no size field
+
+1566210538981	Marionette	INFO	Listening on port 36545
+1566210538994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566210561984	Marionette	INFO	Stopped listening on port 36545
+1566210752012	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.f0IyXxtfkLx5"
+1566210752620	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566210752620	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566210752620	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566210752620	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:25160): Gtk-WARNING **: 17:32:33.317: Theme directory places/22 of theme light has no size field
+
+
+(firefox:25160): Gtk-WARNING **: 17:32:33.317: Theme directory places/24 of theme light has no size field
+
+1566210754831	Marionette	INFO	Listening on port 39135
+1566210754918	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566210775148	Marionette	INFO	Stopped listening on port 39135
+1566211119410	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fjl5ESNPKoW7"
+1566211120032	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566211120032	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566211120032	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566211120032	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:25485): Gtk-WARNING **: 17:38:40.708: Theme directory places/22 of theme light has no size field
+
+
+(firefox:25485): Gtk-WARNING **: 17:38:40.708: Theme directory places/24 of theme light has no size field
+
+1566211121951	Marionette	INFO	Listening on port 39237
+1566211122029	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 25485, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1566211169612	Marionette	INFO	Stopped listening on port 39237
+1566211171168	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GyB6CUxP4CEM"
+1566211171722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566211171722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566211171722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566211171722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:25752): Gtk-WARNING **: 17:39:32.451: Theme directory places/22 of theme light has no size field
+
+
+(firefox:25752): Gtk-WARNING **: 17:39:32.451: Theme directory places/24 of theme light has no size field
+
+1566211173942	Marionette	INFO	Listening on port 45295
+1566211174005	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566211193720	Marionette	INFO	Stopped listening on port 45295
+1566211257532	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oxczLHHnxKWl"
+1566211258119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566211258119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566211258119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566211258119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:25981): Gtk-WARNING **: 17:40:58.873: Theme directory places/22 of theme light has no size field
+
+
+(firefox:25981): Gtk-WARNING **: 17:40:58.873: Theme directory places/24 of theme light has no size field
+
+1566211260260	Marionette	INFO	Listening on port 40741
+1566211260339	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566211342313	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.A7UFCAJhtAZr"
+1566211342889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566211342890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566211342890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566211342890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:26208): Gtk-WARNING **: 17:42:23.644: Theme directory places/22 of theme light has no size field
+
+
+(firefox:26208): Gtk-WARNING **: 17:42:23.644: Theme directory places/24 of theme light has no size field
+
+1566211345152	Marionette	INFO	Listening on port 45711
+1566211345223	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 25981, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1566211348187	Marionette	INFO	Stopped listening on port 40741
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221566000082377%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: http://dapo.dikdasmen.kemdikbud.go.id/assets/libs/amcharts/plugins/export/export.min.js, line 1: ReferenceError: AmCharts is not defined
+JavaScript error: http://dapo.dikdasmen.kemdikbud.go.id/assets/libs/amcharts/themes/light.js, line 1: ReferenceError: AmCharts is not defined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 26208, Gecko_IOThread] WARNING: pipe error (90): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 26208, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1566211434728	Marionette	INFO	Stopped listening on port 45711
+1566211446242	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uLtIDtMVC03i"
+1566211446784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566211446784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566211446784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566211446784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:26447): Gtk-WARNING **: 17:44:07.464: Theme directory places/22 of theme light has no size field
+
+
+(firefox:26447): Gtk-WARNING **: 17:44:07.464: Theme directory places/24 of theme light has no size field
+
+1566211448959	Marionette	INFO	Listening on port 35209
+1566211449053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566211469184	Marionette	INFO	Stopped listening on port 35209
+1566211787154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pJO5B4SrSpn7"
+1566211787710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566211787710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566211787711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566211787711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:26754): Gtk-WARNING **: 17:49:48.441: Theme directory places/22 of theme light has no size field
+
+
+(firefox:26754): Gtk-WARNING **: 17:49:48.441: Theme directory places/24 of theme light has no size field
+
+1566211789876	Marionette	INFO	Listening on port 38903
+1566211789962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566211798759	Marionette	INFO	Stopped listening on port 38903
+1566212002602	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3tvjnqMqkuYm"
+1566212003225	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566212003226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566212003226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566212003226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:27021): Gtk-WARNING **: 17:53:23.931: Theme directory places/22 of theme light has no size field
+
+
+(firefox:27021): Gtk-WARNING **: 17:53:23.931: Theme directory places/24 of theme light has no size field
+
+1566212005364	Marionette	INFO	Listening on port 39645
+1566212005409	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221566000082377%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[Parent 27021, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 27021, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1566212061434	Marionette	INFO	Stopped listening on port 39645
+1566212229451	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.G9NMX3qcVKGS"
+1566212230017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566212230017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566212230017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566212230017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:27300): Gtk-WARNING **: 17:57:10.696: Theme directory places/22 of theme light has no size field
+
+
+(firefox:27300): Gtk-WARNING **: 17:57:10.696: Theme directory places/24 of theme light has no size field
+
+1566212232038	Marionette	INFO	Listening on port 40005
+1566212232085	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 27300, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 27300, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1566212283307	Marionette	INFO	Stopped listening on port 40005
+1566212283999	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bFGfCDJDIlrj"
+1566212284609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566212284609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566212284610	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566212284610	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:27520): Gtk-WARNING **: 17:58:05.229: Theme directory places/22 of theme light has no size field
+
+
+(firefox:27520): Gtk-WARNING **: 17:58:05.229: Theme directory places/24 of theme light has no size field
+
+1566212286653	Marionette	INFO	Listening on port 42399
+1566212286706	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 27520, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 27520, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox-qCOyDf/firefox-68.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1566212328510	Marionette	INFO	Stopped listening on port 42399
