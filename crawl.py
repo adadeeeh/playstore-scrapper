@@ -15,7 +15,7 @@ cursor = initdb.get_cursor(db)
 browser.get("https://play.google.com/store/apps/details?id=com.akupintar.mobile.siswa&showAllReviews=true")
 
 match = False
-print('Loading page...')
+print("Loading page...")
 while(match==False):
         lastCount = scroll()
         time.sleep(3)
@@ -29,7 +29,7 @@ while(match==False):
 
 reviews = browser.find_elements_by_xpath("//div[1]/div[4]/c-wiz/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[@jscontroller='H6eOGe']")
 
-print('Inserting ' + str(len(reviews)) + ' items to database')
+print("Inserting " + str(len(reviews)) + " items to database")
 id_review = 1
 for review in reviews:
    soup = BeautifulSoup(review.get_attribute("innerHTML"), "lxml")
